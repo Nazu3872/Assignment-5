@@ -64,8 +64,7 @@ const Product = ({
                 </div>
 
             </div>
-
-            {/* Button */}
+            
             <button
                 onClick={() => handleAddToStack(product)}
                 disabled={isSelected}
