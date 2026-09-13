@@ -19,7 +19,7 @@ A modern React and TypeScript web application for exploring developer products/t
 ---
 # demo link : https://nazu3872.github.io/Assignment-5/
 
-# repo: 
+# repo: https://github.com/Nazu3872/Assignment-5.git
 
 # React Questions & Answers
 
