@@ -17,6 +17,9 @@ A modern React and TypeScript web application for exploring developer products/t
 3. **Manage Stack** – Users can view selected products and remove items from their stack when needed.
 
 ---
+# demo link : https://nazu3872.github.io/Assignment-5/
+
+# repo: 
 
 # React Questions & Answers
 
